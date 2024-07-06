@@ -1,4 +1,3 @@
-// @flow strict
 import Image from "next/image";
 
 import { educations } from "@/utils/data/educations";
